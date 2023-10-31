@@ -50,6 +50,22 @@ li {
   }
 }
 
+.navigation {
+  .btn {
+    background-color: #fff;
+    color: #000;
+
+    &:hover {
+      background-color: $secondary-color;
+    }
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
 .container-sidebar {
   width: 20%;
 }
