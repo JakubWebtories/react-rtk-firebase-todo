@@ -16,6 +16,7 @@ export const Sidebar = () => {
               <li>Add task</li>
             </NavLink>
             <li>Úkoly</li>
+            <button className="btn">Click</button>
           </ul>
         </nav>
       </div>
